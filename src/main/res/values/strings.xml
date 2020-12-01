@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW7-Openweater</string>
+    <string name="City">Enter a City</string>
+    <string name="Zip">Enter a Zip</string>
+    <string name="GPS">Your Location</string>
+    <string name="city_bttn">City</string>
+    <string name="zip_bttn">Zip Code</string>
+    <string name="developer">Belal Mahmood Z23123449</string>
+    <string name="city_button">City</string>
+</resources>
